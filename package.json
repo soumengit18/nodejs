@@ -1,6 +1,6 @@
 {
   "name": "test_module_name",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Test Application",
   "main": "index.js",
   "scripts": {
